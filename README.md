@@ -1,1 +1,56 @@
 # advent-of-code2022
+
+- [x] Day 1
+  - Language: **C**
+  - Finding maximums
+- [x] Day 2
+  - Language: **Python**
+  - Evaluating rock, paper, scissors games
+- [x] Day 3
+  - Language: **Haskell**
+  - Finding the common elements in lists
+- [ ] Day 4
+  - Language: 
+- [ ] Day 5
+    - Language: 
+- [ ] Day 6
+  - Language: 
+- [ ] Day 7
+  - Language: 
+- [ ] Day 8
+  - Language: 
+- [ ] Day 9
+  - Language: 
+- [ ] Day 10
+  - Language: 
+- [ ] Day 11
+  - Language:
+- [ ] Day 12
+  - Language:
+- [ ] Day 13
+  - Language:
+- [ ] Day 14
+  - Language:
+- [ ] Day 15
+  - Language:
+- [ ] Day 16
+  - Language:
+- [ ] Day 17
+  - Language:
+- [ ] Day 18
+  - Language:
+- [ ] Day 19
+  - Language:
+- [ ] Day 20
+  - Language:
+- [ ] Day 21
+  - Language:
+- [ ] Day 22
+  - Language:
+- [ ] Day 23
+  - Language:
+- [ ] Day 24
+  - Language:
+
+
+
