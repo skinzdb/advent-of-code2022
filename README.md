@@ -9,8 +9,9 @@
 - [x] Day 3
   - Language: **Haskell**
   - Finding the common elements in lists
-- [ ] Day 4
-  - Language: 
+- [x] Day 4
+  - Language: **Bash**
+  - Checking if ranges are within each other/overlap
 - [ ] Day 5
     - Language: 
 - [ ] Day 6
