@@ -12,8 +12,9 @@
 - [x] Day 4
   - Language: **Bash**
   - Checking if ranges are within each other/overlap
-- [ ] Day 5
-    - Language: 
+- [x] Day 5
+    - Language: **Ruby**
+    - Moving items between arrays using stacks and queues
 - [ ] Day 6
   - Language: 
 - [ ] Day 7
