@@ -15,8 +15,9 @@
 - [x] Day 5
     - Language: **Ruby**
     - Moving items between arrays using stacks and queues
-- [ ] Day 6
-  - Language: 
+- [x] Day 6
+  - Language: **Lua**
+  - Finding a contiguous sequence of distinct characters
 - [ ] Day 7
   - Language: 
 - [ ] Day 8
