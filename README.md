@@ -18,8 +18,9 @@
 - [x] Day 6
   - Language: **Lua**
   - Finding a contiguous sequence of distinct characters
-- [ ] Day 7
-  - Language: 
+- [x] Day 7
+  - Language: **C#**
+  - Navigating directory structure and calculating directory sizes
 - [ ] Day 8
   - Language: 
 - [ ] Day 9
