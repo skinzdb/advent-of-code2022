@@ -21,8 +21,9 @@
 - [x] Day 7
   - Language: **C#**
   - Navigating directory structure and calculating directory sizes
-- [ ] Day 8
-  - Language: 
+- [x] Day 8
+  - Language: **Haskell**
+  - Visible trees and tree with longest sight-line within grid
 - [ ] Day 9
   - Language: 
 - [ ] Day 10
