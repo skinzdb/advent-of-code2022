@@ -24,8 +24,9 @@
 - [x] Day 8
   - Language: **Haskell**
   - Visible trees and tree with longest sight-line within grid
-- [ ] Day 9
-  - Language: 
+- [x] Day 9
+  - Language: **OCaml**
+  - Unique steps taken by tail of rope
 - [ ] Day 10
   - Language: 
 - [ ] Day 11
